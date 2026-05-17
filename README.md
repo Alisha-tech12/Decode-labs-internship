@@ -81,7 +81,7 @@ Created professional charts including:
 - **Heatmap** - Feature correlations
 - **Bar Chart** - Average sales by payment method
 
-### ✅ Task 5: Predictive Model
+### Task 5: Predictive Model
 Built a **Random Forest Regressor** to predict customer ratings based on:
 - Unit price
 - Quantity
